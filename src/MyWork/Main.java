@@ -3,6 +3,7 @@ package MyWork;
 public class Main {
 
 	public static void main(String[] args) {
+		// Code done by Ajit
 //		MyInter inter = new MyInterImpl();
 //		inter.sayHi();
 		
